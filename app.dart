@@ -1,0 +1,2 @@
+var "info";
+var "type";
